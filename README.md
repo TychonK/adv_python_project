@@ -1,7 +1,7 @@
 # 🧑‍🎓 Age Prediction by Face Photo Keras Model 📷
 
 ## 📝 Description
-This project is a written in Pyhton neural network. The project explores different variations of Keras CNNs learning from a dataset of 10,000 face photos to predict the age of a person based on their face image.
+This project is a written in Python neural network. The project explores different variations of Keras CNNs learning from a dataset of 10,000 face photos to predict the age of a person based on their face image.
 
 ## 🌟 Best Model
 The best model identified in this project is **`age_model_3.keras`**.
